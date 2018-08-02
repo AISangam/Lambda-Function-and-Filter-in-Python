@@ -1,5 +1,5 @@
 # Lambda-Function-and-Filter-in-Python
-## Why Flter Function is needed :eyes:
+## Why Filter Function is needed :eyes:
 Before proceeding further, I need to answer this question. Filter function will filter the anwer according to the logic written inside the function. It makes the code simple. This code will make the use of both anonymous function or lambda and filter together and list the even and odd elements from the list within one line. Seems interesting.
 ### Some Points of Discussion :droplet:
 If you are using *Python3*, Please use the list with the filter function because it is a generator in python 3. while you will get the answer without list in python 2. I have added the comments in the code and used both python 2 and python to illustrate what I am saying. 
